@@ -1,7 +1,7 @@
 ### Murillo Lopes, 18yo
 
 - ✏ Atualmente estou no último ano do ensino médio (3° ano);
-- 🌱 Inglês avançado;
+- 🌱 Inglês fluente;
 <h1>My profile</h1>
 <div>
   <a href="https://github.com/josephbrito">
