@@ -1,10 +1,10 @@
 ### Murillo Lopes, 18yo
 
 - ✏ Atualmente estou no último ano do ensino médio (3° ano);
-- 🌱 Inglês fluente;
+- 🌱 Inglês fluente (6 anos);
 <h1>My profile</h1>
 <div>
-  <a href="https://github.com/josephbrito">
+  <a href="https://github.com/MurilloLopes14">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MurilloLopes14&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MurilloLopes14&layout=compact&langs_count=7&theme=dark"/>
 </div>
@@ -27,4 +27,5 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJs-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
