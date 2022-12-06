@@ -1,7 +1,7 @@
 ### Murillo Lopes, 18yo
 
-- ✏ Atualmente estou no último ano do ensino médio (3° ano);
-- 🌱 Inglês fluente (6 anos);
+- Sistem Information college student;
+- Web developing lover ❤️;
 <h1>My profile</h1>
 <div>
   <a href="https://github.com/MurilloLopes14">
