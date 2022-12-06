@@ -23,10 +23,15 @@
   <img src="https://img.shields.io/badge/-sass-e88bb7?style=for-the-badge&logo=sass&logoColor=white" />
 </div>
   
-<div><h1>💻 Back-end e banco de dados:</h1></div>
+<div><h1>💻Back-end & database:</h1></div>
   <div style="display: inline_block">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/-NestJs-e0234e?style=for-the-badge&logo=nestjs&logoColor=white" />
+</div>
+  <div><h1>✉️Contact:</h1></div>
+  <div style="display: inline_block">
+  <img src="https://img.shields.io/badge/LinkedIn-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Outlook-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
