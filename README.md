@@ -32,6 +32,6 @@
 </div>
   <div><h1>✉️Contact:</h1></div>
   <div style="display: inline_block">
-  <img src="https://img.shields.io/badge/LinkedIn-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Outlook-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-339933?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Outlook-4EA94B?style=for-the-badge&logo=outlook&logoColor=white" />
 </div>
