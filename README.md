@@ -32,7 +32,8 @@
 </div>
   <div><h1>✉️Contact:</h1></div>
   <div style="display: inline_block">
-  <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Outlook-0170c5?style=for-the-badge&logo=MicrosoftOutlook&logoColor=white" />
+  <a href="https://www.linkedin.com/in/murillo-lopes-b87912228/"> 
+    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /> 
+  </a>
 </div>
   
