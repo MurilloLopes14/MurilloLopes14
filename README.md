@@ -3,14 +3,6 @@
 - Sistem Information college student;
 - Web developing lover ❤️;
 <h1>My profile</h1>
-<div>
-  <a href="https://github.com/MurilloLopes14">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MurilloLopes14&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MurilloLopes14&layout=compact&langs_count=7&theme=dark"/>
-</div>
-   <div>
-    
-  </div>
   <br />
   
   <div><h1>💻Front-end:</h1></div>
