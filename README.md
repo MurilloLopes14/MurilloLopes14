@@ -2,7 +2,7 @@
 
 - Sistem Information college student;
 - Web developing lover ❤️;
-<h1>My profile</h1>
+<h1>My Skills</h1>
   <br />
   
   <div><h1>💻Front-end:</h1></div>
