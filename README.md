@@ -3,7 +3,7 @@
 - Sistem Information college student;
 - Web developing lover ❤️;
   
-  <div><h1>💻Front-end:</h1></div>
+<div><h1>💻Front-end:</h1></div>
  <div style="display: inline_block">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -20,10 +20,11 @@
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/-NestJs-e0234e?style=for-the-badge&logo=nestjs&logoColor=white" />
 </div>
-  <div><h1>✉️Contact:</h1></div>
+
+<div><h1>✉️Contact:</h1></div>
   <div style="display: inline_block">
-  <a href="https://www.linkedin.com/in/murillo-lopes-b87912228/"> 
-    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /> 
-  </a>
+    <a href="https://www.linkedin.com/in/murillo-lopes-b87912228/"> 
+      <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /> 
+    </a>
 </div>
   
