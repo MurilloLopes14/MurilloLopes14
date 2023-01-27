@@ -2,7 +2,6 @@
 
 - Sistem Information college student;
 - Web developing lover ❤️;
-- <br />
   
   <div><h1>💻Front-end:</h1></div>
  <div style="display: inline_block">
