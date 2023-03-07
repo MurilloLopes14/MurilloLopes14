@@ -34,5 +34,8 @@
     <a href="https://www.linkedin.com/in/murillo-lopes-b87912228/"> 
       <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /> 
     </a>
+    <a href="murllo.oliveira1234@outlook.com">
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+    </a>
 </div>
   
