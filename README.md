@@ -1,7 +1,7 @@
 ### Murillo Lopes, 18yo
 
 - Sistem Information college student;
-- Web developing lover ❤️;
+- Analista/Administrador de infraestrutura e rede ❤️;
 
 <div>
   <a href="https://github.com/MurilloLopes14">
