@@ -1,6 +1,6 @@
 ### Murillo Lopes, 18yo
 
-- Estudante de Sistemas de Informação 1/10;
+- Estudante de Sistemas de Informação 2/10;
 - Analista/Administrador de infraestrutura e rede ❤️;
 
 <div>
