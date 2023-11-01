@@ -1,7 +1,9 @@
-### Murillo Lopes, 18yo
+### Murillo Lopes, 18 anos
 
 - Estudante de Sistemas de Informação 2/10;
 - Analista/Administrador de infraestrutura e rede ❤️;
+- Desenvolvedor de sistemas Back-end
+- Sky is the limit
 
 <div>
   <a href="https://github.com/MurilloLopes14">
@@ -16,8 +18,6 @@
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/-sass-e88bb7?style=for-the-badge&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/tailwindCSS-16becb?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </div>
   
 <div><h1>📊Back-end & Database:</h1></div>
@@ -26,6 +26,10 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/-NestJs-e0234e?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-4280b1?style=for-the-badge&logo=python&logoColor=white" />
+  
  
 </div>
 
