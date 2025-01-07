@@ -1,9 +1,9 @@
-### Murillo Lopes, 18 anos
+### Murillo Lopes, 20 anos
 
-- Estudante de Sistemas de Informação 2/10;
-- Analista/Administrador de infraestrutura e rede ❤️;
+- Estudante de Sistemas de Informação 6/10;
+- Analista Sistemas e Desenvolvedor de Projetos ❤️;
 - Desenvolvedor de sistemas Back-end
-- Sky is the limit
+- If sky is the limit, I'm above it!
 
 <div>
   <a href="https://github.com/MurilloLopes14">
