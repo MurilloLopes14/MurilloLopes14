@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d3b52,100:41b6e6&height=200&section=header&text=Murillo%20Lopes&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Analista%20Pleno%20de%20Inteligência%20de%20Sistemas%20e%20Operações&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=41B6E6&center=true&vCenter=true&width=600&lines=Analista+Pleno+de+Inteligência+de+Sistemas;Engenheiro+de+IA;Full-Stack+Developer;If+sky+is+the+limit%2C+I'm+above+it!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=41B6E6&center=true&vCenter=true&width=850&lines=If+sky+is+the+limit%2C+I%27m+above+it!;Softwares+are+born+for+those+who+are+willing+to+code+everything!;Turning+coffee+into+code+since+day+one;Every+bug+haves+a+weakness%2C+and+that%27s+me.;Building+the+future%2C+one+commit+at+a+time" alt="" />
 
 </div>
 
@@ -12,7 +12,7 @@
 
 - 🎓 Estudante de Sistemas de Informação
 - 💼 Analista Pleno de Inteligência de Sistemas e Operações
-- 🧠 Engenheiro de IA
+- 🧠 Engenheiro de Inteligência Artificial
 - 🛠️ Desenvolvedor Full-Stack (Web, Mobile, Back-End & Infra)
 - 🚀 If sky is the limit, I'm above it!
 
